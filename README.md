@@ -1,5 +1,5 @@
 # LittleTools
-ScanAPKPermis 用来提取APK所有用到的权限，后续应该会加入高危检测项，逐渐发展成合规测试工具
+ScanAPKPermis 用来提取APK所有用到的权限，后续应该会发展成合规测试工具，加入不符合项检测模块
 - 单个APK扫描，需要指定APK文件 `java -jar ScanPermis.jar exmaple.apk`
 - 批量扫描，需要指定APK所在文件夹 `java -jar ScanPermis.jar -f /folder_exmaple/`
 ```bash
