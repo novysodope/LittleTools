@@ -1,5 +1,7 @@
 # LittleTools
 ScanAPKPermis 用来提取APK所有用到的权限
+- 单个APK扫描，需要指定APK文件 `java -jar ScanPermis.jar exmaple.apk`
+- 批量扫描，需要指定APK所在文件夹 `java -jar ScanPermis.jar -f /folder_exmaple/`
 ```bash
 File from extraction D:\1-JavaStudy\calcTest\Example.apk
 Folder: Example
