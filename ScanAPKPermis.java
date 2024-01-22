@@ -16,8 +16,8 @@ public class APKTools {
         String apkPath = args[0];
 
         if (apkPath.equals("-h")) {
-            System.out.println("java -jar ScanPermis.jar exmaple.apk  --Single");
-            System.out.println("java -jar ScanPermis.jar -f /folder_exmaple/  --Batch\n");
+            System.out.println("java -jar ScanPermis.jar example.apk  --Single");
+            System.out.println("java -jar ScanPermis.jar -f /folder_example/  --Batch\n");
             System.exit(0);
         }
 
